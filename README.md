@@ -4,6 +4,7 @@
 <h3>Confira o Front End. Link do repositório abaixo 👇</h3>
 
 <a href="https://github.com/KaikeRochaDev/rocketnotes-app" target="_blank">Clique aqui para conferir o Front End</a>
+<h4><strong>OBS</strong>: Ao acessar o deploy, o site leva em cerca de 30 segundos para se iniciar, pois como não possuo um dominío próprio, o servidor fica desligado!</h4>
 
 <p>O sistema conta com: </p> 
 - 📝 Processo de autenticação, com login e cadastro; <br>
